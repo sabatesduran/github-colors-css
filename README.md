@@ -3,11 +3,8 @@ Github colors for all the programming languages in a css file.
 
 The css file follows this pattern:
 
-	.gh-bgc-shell { background-color: #89e051; }
-	.gh-c-shell { color: #89e051; }
-
-- bgc = background-color
-- c = color
+	.ghc-shell-bg { background-color: #89e051; }
+	.ghc-shell { color: #89e051; }
 
 The name of the programming languages will be changed like this:
 
