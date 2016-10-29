@@ -25,6 +25,8 @@ css_file = File.open("github-colors.css", "w")
 
 yalm_hash.map do |e, i|
   unless i["color"].nil?
+    # Add comment with language name
+    css_file.write("/* #{e} */\n")
     # Change programming language name
     css_name = to_css_name(e);
     # Adding css background-color class
