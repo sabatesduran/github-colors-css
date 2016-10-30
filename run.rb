@@ -29,10 +29,10 @@ yalm_hash.map do |e, i|
     css_file.write("/* #{e} */\n")
     # Change programming language name
     css_name = to_css_name(e);
-    # Adding css background-color class
-    css_file.write(".ghc-#{css_name}-bg { background-color: #{i['color']}; }\n")
     # Adding css color class
     css_file.write(".ghc-#{css_name} { color: #{i['color']}; }\n")
+    # Adding css background-color class
+    css_file.write(".ghc-#{css_name}-bg { background-color: #{i['color']}; }\n")
   end
 end
 
