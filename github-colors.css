@@ -1,624 +1,420 @@
-/* 1C Enterprise */
 .ghc-1c-enterprise { color: #814CCC; }
 .ghc-1c-enterprise-bg { background-color: #814CCC; }
-/* ABAP */
 .ghc-abap { color: #E8274B; }
 .ghc-abap-bg { background-color: #E8274B; }
-/* AGS Script */
 .ghc-ags-script { color: #B9D9FF; }
 .ghc-ags-script-bg { background-color: #B9D9FF; }
-/* AMPL */
 .ghc-ampl { color: #E6EFBB; }
 .ghc-ampl-bg { background-color: #E6EFBB; }
-/* ANTLR */
 .ghc-antlr { color: #9DC3FF; }
 .ghc-antlr-bg { background-color: #9DC3FF; }
-/* API Blueprint */
 .ghc-api-blueprint { color: #2ACCA8; }
 .ghc-api-blueprint-bg { background-color: #2ACCA8; }
-/* APL */
 .ghc-apl { color: #5A8164; }
 .ghc-apl-bg { background-color: #5A8164; }
-/* ASP */
 .ghc-asp { color: #6a40fd; }
 .ghc-asp-bg { background-color: #6a40fd; }
-/* ATS */
 .ghc-ats { color: #1ac620; }
 .ghc-ats-bg { background-color: #1ac620; }
-/* ActionScript */
 .ghc-actionscript { color: #882B0F; }
 .ghc-actionscript-bg { background-color: #882B0F; }
-/* Ada */
 .ghc-ada { color: #02f88c; }
 .ghc-ada-bg { background-color: #02f88c; }
-/* Agda */
 .ghc-agda { color: #315665; }
 .ghc-agda-bg { background-color: #315665; }
-/* Alloy */
 .ghc-alloy { color: #64C800; }
 .ghc-alloy-bg { background-color: #64C800; }
-/* AppleScript */
 .ghc-applescript { color: #101F1F; }
 .ghc-applescript-bg { background-color: #101F1F; }
-/* Arc */
 .ghc-arc { color: #aa2afe; }
 .ghc-arc-bg { background-color: #aa2afe; }
-/* Arduino */
 .ghc-arduino { color: #bd79d1; }
 .ghc-arduino-bg { background-color: #bd79d1; }
-/* AspectJ */
 .ghc-aspectj { color: #a957b0; }
 .ghc-aspectj-bg { background-color: #a957b0; }
-/* Assembly */
 .ghc-assembly { color: #6E4C13; }
 .ghc-assembly-bg { background-color: #6E4C13; }
-/* AutoHotkey */
 .ghc-autohotkey { color: #6594b9; }
 .ghc-autohotkey-bg { background-color: #6594b9; }
-/* AutoIt */
 .ghc-autoit { color: #1C3552; }
 .ghc-autoit-bg { background-color: #1C3552; }
-/* Batchfile */
 .ghc-batchfile { color: #C1F12E; }
 .ghc-batchfile-bg { background-color: #C1F12E; }
-/* BlitzMax */
 .ghc-blitzmax { color: #cd6400; }
 .ghc-blitzmax-bg { background-color: #cd6400; }
-/* Boo */
 .ghc-boo { color: #d4bec1; }
 .ghc-boo-bg { background-color: #d4bec1; }
-/* Brainfuck */
 .ghc-brainfuck { color: #2F2530; }
 .ghc-brainfuck-bg { background-color: #2F2530; }
-/* C */
 .ghc-c { color: #555555; }
 .ghc-c-bg { background-color: #555555; }
-/* C# */
 .ghc-c-sharp { color: #178600; }
 .ghc-c-sharp-bg { background-color: #178600; }
-/* C++ */
 .ghc-cpp { color: #f34b7d; }
 .ghc-cpp-bg { background-color: #f34b7d; }
-/* CSS */
 .ghc-css { color: #563d7c; }
 .ghc-css-bg { background-color: #563d7c; }
-/* Chapel */
 .ghc-chapel { color: #8dc63f; }
 .ghc-chapel-bg { background-color: #8dc63f; }
-/* Cirru */
 .ghc-cirru { color: #ccccff; }
 .ghc-cirru-bg { background-color: #ccccff; }
-/* Clarion */
 .ghc-clarion { color: #db901e; }
 .ghc-clarion-bg { background-color: #db901e; }
-/* Clean */
 .ghc-clean { color: #3F85AF; }
 .ghc-clean-bg { background-color: #3F85AF; }
-/* Click */
 .ghc-click { color: #E4E6F3; }
 .ghc-click-bg { background-color: #E4E6F3; }
-/* Clojure */
 .ghc-clojure { color: #db5855; }
 .ghc-clojure-bg { background-color: #db5855; }
-/* CoffeeScript */
 .ghc-coffeescript { color: #244776; }
 .ghc-coffeescript-bg { background-color: #244776; }
-/* ColdFusion */
 .ghc-coldfusion { color: #ed2cd6; }
 .ghc-coldfusion-bg { background-color: #ed2cd6; }
-/* Common Lisp */
 .ghc-common-lisp { color: #3fb68b; }
 .ghc-common-lisp-bg { background-color: #3fb68b; }
-/* Component Pascal */
 .ghc-component-pascal { color: #B0CE4E; }
 .ghc-component-pascal-bg { background-color: #B0CE4E; }
-/* Crystal */
 .ghc-crystal { color: #776791; }
 .ghc-crystal-bg { background-color: #776791; }
-/* Cucumber */
-.ghc-cucumber { color: #5B2063; }
-.ghc-cucumber-bg { background-color: #5B2063; }
-/* Cuda */
 .ghc-cuda { color: #3A4E3A; }
 .ghc-cuda-bg { background-color: #3A4E3A; }
-/* D */
 .ghc-d { color: #ba595e; }
 .ghc-d-bg { background-color: #ba595e; }
-/* DM */
 .ghc-dm { color: #447265; }
 .ghc-dm-bg { background-color: #447265; }
-/* Dart */
 .ghc-dart { color: #00B4AB; }
 .ghc-dart-bg { background-color: #00B4AB; }
-/* Dogescript */
 .ghc-dogescript { color: #cca760; }
 .ghc-dogescript-bg { background-color: #cca760; }
-/* Dylan */
 .ghc-dylan { color: #6c616e; }
 .ghc-dylan-bg { background-color: #6c616e; }
-/* E */
 .ghc-e { color: #ccce35; }
 .ghc-e-bg { background-color: #ccce35; }
-/* ECL */
 .ghc-ecl { color: #8a1267; }
 .ghc-ecl-bg { background-color: #8a1267; }
-/* EQ */
 .ghc-eq { color: #a78649; }
 .ghc-eq-bg { background-color: #a78649; }
-/* Eagle */
 .ghc-eagle { color: #814C05; }
 .ghc-eagle-bg { background-color: #814C05; }
-/* Eiffel */
 .ghc-eiffel { color: #946d57; }
 .ghc-eiffel-bg { background-color: #946d57; }
-/* Elixir */
 .ghc-elixir { color: #6e4a7e; }
 .ghc-elixir-bg { background-color: #6e4a7e; }
-/* Elm */
 .ghc-elm { color: #60B5CC; }
 .ghc-elm-bg { background-color: #60B5CC; }
-/* Emacs Lisp */
 .ghc-emacs-lisp { color: #c065db; }
 .ghc-emacs-lisp-bg { background-color: #c065db; }
-/* EmberScript */
 .ghc-emberscript { color: #FFF4F3; }
 .ghc-emberscript-bg { background-color: #FFF4F3; }
-/* Erlang */
 .ghc-erlang { color: #B83998; }
 .ghc-erlang-bg { background-color: #B83998; }
-/* F# */
 .ghc-f-sharp { color: #b845fc; }
 .ghc-f-sharp-bg { background-color: #b845fc; }
-/* FLUX */
 .ghc-flux { color: #88ccff; }
 .ghc-flux-bg { background-color: #88ccff; }
-/* FORTRAN */
-.ghc-fortran { color: #4d41b1; }
-.ghc-fortran-bg { background-color: #4d41b1; }
-/* Factor */
 .ghc-factor { color: #636746; }
 .ghc-factor-bg { background-color: #636746; }
-/* Fancy */
 .ghc-fancy { color: #7b9db4; }
 .ghc-fancy-bg { background-color: #7b9db4; }
-/* Fantom */
 .ghc-fantom { color: #dbded5; }
 .ghc-fantom-bg { background-color: #dbded5; }
-/* Forth */
 .ghc-forth { color: #341708; }
 .ghc-forth-bg { background-color: #341708; }
-/* FreeMarker */
+.ghc-fortran { color: #4d41b1; }
+.ghc-fortran-bg { background-color: #4d41b1; }
 .ghc-freemarker { color: #0050b2; }
 .ghc-freemarker-bg { background-color: #0050b2; }
-/* Frege */
 .ghc-frege { color: #00cafe; }
 .ghc-frege-bg { background-color: #00cafe; }
-/* Game Maker Language */
 .ghc-game-maker-language { color: #8fb200; }
 .ghc-game-maker-language-bg { background-color: #8fb200; }
-/* Glyph */
+.ghc-genie { color: #fb855d; }
+.ghc-genie-bg { background-color: #fb855d; }
+.ghc-gherkin { color: #5B2063; }
+.ghc-gherkin-bg { background-color: #5B2063; }
 .ghc-glyph { color: #e4cc98; }
 .ghc-glyph-bg { background-color: #e4cc98; }
-/* Gnuplot */
 .ghc-gnuplot { color: #f0a9f0; }
 .ghc-gnuplot-bg { background-color: #f0a9f0; }
-/* Go */
 .ghc-go { color: #375eab; }
 .ghc-go-bg { background-color: #375eab; }
-/* Golo */
 .ghc-golo { color: #88562A; }
 .ghc-golo-bg { background-color: #88562A; }
-/* Gosu */
 .ghc-gosu { color: #82937f; }
 .ghc-gosu-bg { background-color: #82937f; }
-/* Grammatical Framework */
 .ghc-grammatical-framework { color: #79aa7a; }
 .ghc-grammatical-framework-bg { background-color: #79aa7a; }
-/* Groff */
-.ghc-groff { color: #ecdebe; }
-.ghc-groff-bg { background-color: #ecdebe; }
-/* Groovy */
 .ghc-groovy { color: #e69f56; }
 .ghc-groovy-bg { background-color: #e69f56; }
-/* HTML */
 .ghc-html { color: #e44b23; }
 .ghc-html-bg { background-color: #e44b23; }
-/* Hack */
 .ghc-hack { color: #878787; }
 .ghc-hack-bg { background-color: #878787; }
-/* Harbour */
 .ghc-harbour { color: #0e60e3; }
 .ghc-harbour-bg { background-color: #0e60e3; }
-/* Haskell */
 .ghc-haskell { color: #29b544; }
 .ghc-haskell-bg { background-color: #29b544; }
-/* Haxe */
 .ghc-haxe { color: #df7900; }
 .ghc-haxe-bg { background-color: #df7900; }
-/* Hy */
 .ghc-hy { color: #7790B2; }
 .ghc-hy-bg { background-color: #7790B2; }
-/* IDL */
 .ghc-idl { color: #a3522f; }
 .ghc-idl-bg { background-color: #a3522f; }
-/* Io */
 .ghc-io { color: #a9188d; }
 .ghc-io-bg { background-color: #a9188d; }
-/* Ioke */
 .ghc-ioke { color: #078193; }
 .ghc-ioke-bg { background-color: #078193; }
-/* Isabelle */
 .ghc-isabelle { color: #FEFE00; }
 .ghc-isabelle-bg { background-color: #FEFE00; }
-/* J */
 .ghc-j { color: #9EEDFF; }
 .ghc-j-bg { background-color: #9EEDFF; }
-/* JSONiq */
 .ghc-jsoniq { color: #40d47e; }
 .ghc-jsoniq-bg { background-color: #40d47e; }
-/* Java */
 .ghc-java { color: #b07219; }
 .ghc-java-bg { background-color: #b07219; }
-/* JavaScript */
 .ghc-javascript { color: #f1e05a; }
 .ghc-javascript-bg { background-color: #f1e05a; }
-/* Julia */
 .ghc-julia { color: #a270ba; }
 .ghc-julia-bg { background-color: #a270ba; }
-/* Jupyter Notebook */
 .ghc-jupyter-notebook { color: #DA5B0B; }
 .ghc-jupyter-notebook-bg { background-color: #DA5B0B; }
-/* KRL */
 .ghc-krl { color: #28431f; }
 .ghc-krl-bg { background-color: #28431f; }
-/* Kotlin */
 .ghc-kotlin { color: #F18E33; }
 .ghc-kotlin-bg { background-color: #F18E33; }
-/* LLVM */
 .ghc-llvm { color: #185619; }
 .ghc-llvm-bg { background-color: #185619; }
-/* LOLCODE */
 .ghc-lolcode { color: #cc9900; }
 .ghc-lolcode-bg { background-color: #cc9900; }
-/* LSL */
 .ghc-lsl { color: #3d9970; }
 .ghc-lsl-bg { background-color: #3d9970; }
-/* Lasso */
 .ghc-lasso { color: #999999; }
 .ghc-lasso-bg { background-color: #999999; }
-/* Lex */
 .ghc-lex { color: #DBCA00; }
 .ghc-lex-bg { background-color: #DBCA00; }
-/* LiveScript */
 .ghc-livescript { color: #499886; }
 .ghc-livescript-bg { background-color: #499886; }
-/* LookML */
 .ghc-lookml { color: #652B81; }
 .ghc-lookml-bg { background-color: #652B81; }
-/* Lua */
 .ghc-lua { color: #000080; }
 .ghc-lua-bg { background-color: #000080; }
-/* MAXScript */
 .ghc-maxscript { color: #00a6a6; }
 .ghc-maxscript-bg { background-color: #00a6a6; }
-/* MQL4 */
 .ghc-mql4 { color: #62A8D6; }
 .ghc-mql4-bg { background-color: #62A8D6; }
-/* MQL5 */
 .ghc-mql5 { color: #4A76B8; }
 .ghc-mql5-bg { background-color: #4A76B8; }
-/* MTML */
 .ghc-mtml { color: #b7e1f4; }
 .ghc-mtml-bg { background-color: #b7e1f4; }
-/* Makefile */
 .ghc-makefile { color: #427819; }
 .ghc-makefile-bg { background-color: #427819; }
-/* Mask */
 .ghc-mask { color: #f97732; }
 .ghc-mask-bg { background-color: #f97732; }
-/* Matlab */
 .ghc-matlab { color: #bb92ac; }
 .ghc-matlab-bg { background-color: #bb92ac; }
-/* Max */
 .ghc-max { color: #c4a79c; }
 .ghc-max-bg { background-color: #c4a79c; }
-/* Mercury */
 .ghc-mercury { color: #ff2b2b; }
 .ghc-mercury-bg { background-color: #ff2b2b; }
-/* Metal */
 .ghc-metal { color: #8f14e9; }
 .ghc-metal-bg { background-color: #8f14e9; }
-/* Mirah */
 .ghc-mirah { color: #c7a938; }
 .ghc-mirah-bg { background-color: #c7a938; }
-/* NCL */
 .ghc-ncl { color: #28431f; }
 .ghc-ncl-bg { background-color: #28431f; }
-/* Nemerle */
 .ghc-nemerle { color: #3d3c6e; }
 .ghc-nemerle-bg { background-color: #3d3c6e; }
-/* NetLinx */
 .ghc-netlinx { color: #0aa0ff; }
 .ghc-netlinx-bg { background-color: #0aa0ff; }
-/* NetLinx+ERB */
 .ghc-netlinxperb { color: #747faa; }
 .ghc-netlinxperb-bg { background-color: #747faa; }
-/* NetLogo */
 .ghc-netlogo { color: #ff6375; }
 .ghc-netlogo-bg { background-color: #ff6375; }
-/* NewLisp */
 .ghc-newlisp { color: #87AED7; }
 .ghc-newlisp-bg { background-color: #87AED7; }
-/* Nginx */
 .ghc-nginx { color: #9469E9; }
 .ghc-nginx-bg { background-color: #9469E9; }
-/* Nimrod */
-.ghc-nimrod { color: #37775b; }
-.ghc-nimrod-bg { background-color: #37775b; }
-/* Nit */
+.ghc-nim { color: #37775b; }
+.ghc-nim-bg { background-color: #37775b; }
 .ghc-nit { color: #009917; }
 .ghc-nit-bg { background-color: #009917; }
-/* Nix */
 .ghc-nix { color: #7e7eff; }
 .ghc-nix-bg { background-color: #7e7eff; }
-/* Nu */
 .ghc-nu { color: #c9df40; }
 .ghc-nu-bg { background-color: #c9df40; }
-/* OCaml */
 .ghc-ocaml { color: #3be133; }
 .ghc-ocaml-bg { background-color: #3be133; }
-/* Objective-C */
 .ghc-objective-c { color: #438eff; }
 .ghc-objective-c-bg { background-color: #438eff; }
-/* Objective-C++ */
 .ghc-objective-cpp { color: #6866fb; }
 .ghc-objective-cpp-bg { background-color: #6866fb; }
-/* Objective-J */
 .ghc-objective-j { color: #ff0c5a; }
 .ghc-objective-j-bg { background-color: #ff0c5a; }
-/* Omgrofl */
 .ghc-omgrofl { color: #cabbff; }
 .ghc-omgrofl-bg { background-color: #cabbff; }
-/* Opal */
 .ghc-opal { color: #f7ede0; }
 .ghc-opal-bg { background-color: #f7ede0; }
-/* Oxygene */
 .ghc-oxygene { color: #cdd0e3; }
 .ghc-oxygene-bg { background-color: #cdd0e3; }
-/* Oz */
 .ghc-oz { color: #fab738; }
 .ghc-oz-bg { background-color: #fab738; }
-/* PAWN */
 .ghc-pawn { color: #dbb284; }
 .ghc-pawn-bg { background-color: #dbb284; }
-/* PHP */
 .ghc-php { color: #4F5D95; }
 .ghc-php-bg { background-color: #4F5D95; }
-/* PLSQL */
 .ghc-plsql { color: #dad8d8; }
 .ghc-plsql-bg { background-color: #dad8d8; }
-/* Pan */
 .ghc-pan { color: #cc0000; }
 .ghc-pan-bg { background-color: #cc0000; }
-/* Papyrus */
 .ghc-papyrus { color: #6600cc; }
 .ghc-papyrus-bg { background-color: #6600cc; }
-/* Parrot */
 .ghc-parrot { color: #f3ca0a; }
 .ghc-parrot-bg { background-color: #f3ca0a; }
-/* Pascal */
 .ghc-pascal { color: #E3F171; }
 .ghc-pascal-bg { background-color: #E3F171; }
-/* Perl */
 .ghc-perl { color: #0298c3; }
 .ghc-perl-bg { background-color: #0298c3; }
-/* Perl6 */
 .ghc-perl6 { color: #0000fb; }
 .ghc-perl6-bg { background-color: #0000fb; }
-/* PigLatin */
 .ghc-piglatin { color: #fcd7de; }
 .ghc-piglatin-bg { background-color: #fcd7de; }
-/* Pike */
 .ghc-pike { color: #005390; }
 .ghc-pike-bg { background-color: #005390; }
-/* PogoScript */
 .ghc-pogoscript { color: #d80074; }
 .ghc-pogoscript-bg { background-color: #d80074; }
-/* PostScript */
 .ghc-postscript { color: #da291c; }
 .ghc-postscript-bg { background-color: #da291c; }
-/* PowerBuilder */
 .ghc-powerbuilder { color: #8f0f8d; }
 .ghc-powerbuilder-bg { background-color: #8f0f8d; }
-/* Processing */
 .ghc-processing { color: #0096D8; }
 .ghc-processing-bg { background-color: #0096D8; }
-/* Prolog */
 .ghc-prolog { color: #74283c; }
 .ghc-prolog-bg { background-color: #74283c; }
-/* Propeller Spin */
 .ghc-propeller-spin { color: #7fa2a7; }
 .ghc-propeller-spin-bg { background-color: #7fa2a7; }
-/* Puppet */
 .ghc-puppet { color: #302B6D; }
 .ghc-puppet-bg { background-color: #302B6D; }
-/* Pure Data */
 .ghc-pure-data { color: #91de79; }
 .ghc-pure-data-bg { background-color: #91de79; }
-/* PureBasic */
 .ghc-purebasic { color: #5a6986; }
 .ghc-purebasic-bg { background-color: #5a6986; }
-/* PureScript */
 .ghc-purescript { color: #1D222D; }
 .ghc-purescript-bg { background-color: #1D222D; }
-/* Python */
 .ghc-python { color: #3572A5; }
 .ghc-python-bg { background-color: #3572A5; }
-/* QML */
 .ghc-qml { color: #44a51c; }
 .ghc-qml-bg { background-color: #44a51c; }
-/* R */
 .ghc-r { color: #198CE7; }
 .ghc-r-bg { background-color: #198CE7; }
-/* RAML */
 .ghc-raml { color: #77d9fb; }
 .ghc-raml-bg { background-color: #77d9fb; }
-/* RUNOFF */
 .ghc-runoff { color: #665a4e; }
 .ghc-runoff-bg { background-color: #665a4e; }
-/* Racket */
 .ghc-racket { color: #22228f; }
 .ghc-racket-bg { background-color: #22228f; }
-/* Ragel in Ruby Host */
-.ghc-ragel-in-ruby-host { color: #9d5200; }
-.ghc-ragel-in-ruby-host-bg { background-color: #9d5200; }
-/* Rebol */
+.ghc-ragel { color: #9d5200; }
+.ghc-ragel-bg { background-color: #9d5200; }
+.ghc-rascal { color: #fffaa0; }
+.ghc-rascal-bg { background-color: #fffaa0; }
 .ghc-rebol { color: #358a5b; }
 .ghc-rebol-bg { background-color: #358a5b; }
-/* Red */
 .ghc-red { color: #f50000; }
 .ghc-red-bg { background-color: #f50000; }
-/* Ren'Py */
 .ghc-ren-py { color: #ff7f7f; }
 .ghc-ren-py-bg { background-color: #ff7f7f; }
-/* Rouge */
+.ghc-roff { color: #ecdebe; }
+.ghc-roff-bg { background-color: #ecdebe; }
 .ghc-rouge { color: #cc0088; }
 .ghc-rouge-bg { background-color: #cc0088; }
-/* Ruby */
 .ghc-ruby { color: #701516; }
 .ghc-ruby-bg { background-color: #701516; }
-/* Rust */
 .ghc-rust { color: #dea584; }
 .ghc-rust-bg { background-color: #dea584; }
-/* SAS */
 .ghc-sas { color: #B34936; }
 .ghc-sas-bg { background-color: #B34936; }
-/* SQF */
 .ghc-sqf { color: #3F3F3F; }
 .ghc-sqf-bg { background-color: #3F3F3F; }
-/* SRecode Template */
 .ghc-srecode-template { color: #348a34; }
 .ghc-srecode-template-bg { background-color: #348a34; }
-/* SaltStack */
 .ghc-saltstack { color: #646464; }
 .ghc-saltstack-bg { background-color: #646464; }
-/* Scala */
 .ghc-scala { color: #c22d40; }
 .ghc-scala-bg { background-color: #c22d40; }
-/* Scheme */
 .ghc-scheme { color: #1e4aec; }
 .ghc-scheme-bg { background-color: #1e4aec; }
-/* Self */
 .ghc-self { color: #0579aa; }
 .ghc-self-bg { background-color: #0579aa; }
-/* Shell */
 .ghc-shell { color: #89e051; }
 .ghc-shell-bg { background-color: #89e051; }
-/* Shen */
 .ghc-shen { color: #120F14; }
 .ghc-shen-bg { background-color: #120F14; }
-/* Slash */
 .ghc-slash { color: #007eff; }
 .ghc-slash-bg { background-color: #007eff; }
-/* Smalltalk */
 .ghc-smalltalk { color: #596706; }
 .ghc-smalltalk-bg { background-color: #596706; }
-/* SourcePawn */
 .ghc-sourcepawn { color: #5c7611; }
 .ghc-sourcepawn-bg { background-color: #5c7611; }
-/* Squirrel */
 .ghc-squirrel { color: #800000; }
 .ghc-squirrel-bg { background-color: #800000; }
-/* Stan */
 .ghc-stan { color: #b2011d; }
 .ghc-stan-bg { background-color: #b2011d; }
-/* Standard ML */
 .ghc-standard-ml { color: #dc566d; }
 .ghc-standard-ml-bg { background-color: #dc566d; }
-/* SuperCollider */
 .ghc-supercollider { color: #46390b; }
 .ghc-supercollider-bg { background-color: #46390b; }
-/* Swift */
 .ghc-swift { color: #ffac45; }
 .ghc-swift-bg { background-color: #ffac45; }
-/* SystemVerilog */
 .ghc-systemverilog { color: #DAE1C2; }
 .ghc-systemverilog-bg { background-color: #DAE1C2; }
-/* TI Program */
 .ghc-ti-program { color: #A0AA87; }
 .ghc-ti-program-bg { background-color: #A0AA87; }
-/* Tcl */
 .ghc-tcl { color: #e4cc98; }
 .ghc-tcl-bg { background-color: #e4cc98; }
-/* TeX */
 .ghc-tex { color: #3D6117; }
 .ghc-tex-bg { background-color: #3D6117; }
-/* Terra */
 .ghc-terra { color: #00004c; }
 .ghc-terra-bg { background-color: #00004c; }
-/* Turing */
 .ghc-turing { color: #cf142b; }
 .ghc-turing-bg { background-color: #cf142b; }
-/* TypeScript */
 .ghc-typescript { color: #2b7489; }
 .ghc-typescript-bg { background-color: #2b7489; }
-/* UnrealScript */
 .ghc-unrealscript { color: #a54c4d; }
 .ghc-unrealscript-bg { background-color: #a54c4d; }
-/* VHDL */
 .ghc-vhdl { color: #adb2cb; }
 .ghc-vhdl-bg { background-color: #adb2cb; }
-/* Vala */
 .ghc-vala { color: #fbe5cd; }
 .ghc-vala-bg { background-color: #fbe5cd; }
-/* Verilog */
 .ghc-verilog { color: #b2b7f8; }
 .ghc-verilog-bg { background-color: #b2b7f8; }
-/* VimL */
-.ghc-viml { color: #199f4b; }
-.ghc-viml-bg { background-color: #199f4b; }
-/* Visual Basic */
+.ghc-vim-script { color: #199f4b; }
+.ghc-vim-script-bg { background-color: #199f4b; }
 .ghc-visual-basic { color: #945db7; }
 .ghc-visual-basic-bg { background-color: #945db7; }
-/* Volt */
 .ghc-volt { color: #1F1F1F; }
 .ghc-volt-bg { background-color: #1F1F1F; }
-/* Vue */
 .ghc-vue { color: #2c3e50; }
 .ghc-vue-bg { background-color: #2c3e50; }
-/* Web Ontology Language */
 .ghc-web-ontology-language { color: #9cc9dd; }
 .ghc-web-ontology-language-bg { background-color: #9cc9dd; }
-/* X10 */
 .ghc-x10 { color: #4B6BEF; }
 .ghc-x10-bg { background-color: #4B6BEF; }
-/* XC */
 .ghc-xc { color: #99DA07; }
 .ghc-xc-bg { background-color: #99DA07; }
-/* XQuery */
 .ghc-xquery { color: #5232e7; }
 .ghc-xquery-bg { background-color: #5232e7; }
-/* XSLT */
 .ghc-xslt { color: #EB8CEB; }
 .ghc-xslt-bg { background-color: #EB8CEB; }
-/* Yacc */
 .ghc-yacc { color: #4B6C4B; }
 .ghc-yacc-bg { background-color: #4B6C4B; }
-/* Zephir */
 .ghc-zephir { color: #118f9e; }
 .ghc-zephir-bg { background-color: #118f9e; }
-/* eC */
 .ghc-ec { color: #913960; }
 .ghc-ec-bg { background-color: #913960; }
-/* nesC */
 .ghc-nesc { color: #94B0C7; }
 .ghc-nesc-bg { background-color: #94B0C7; }
-/* ooc */
 .ghc-ooc { color: #b0b77e; }
 .ghc-ooc-bg { background-color: #b0b77e; }
-/* wisp */
 .ghc-wisp { color: #7582D1; }
 .ghc-wisp-bg { background-color: #7582D1; }
-/* xBase */
 .ghc-xbase { color: #403a40; }
 .ghc-xbase-bg { background-color: #403a40; }

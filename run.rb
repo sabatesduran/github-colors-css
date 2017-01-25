@@ -17,24 +17,41 @@ def to_css_name(e)
   css_name = css_name.gsub(/\+/, 'p')
 end
 
+def to_css(name, color)
+  ".ghc-#{name} { color: #{color}; }\n.ghc-#{name}-bg { background-color: #{color}; }\n"
+end
+
+def to_sass(name, color)
+  "$ghc-#{name}: #{color};\n"
+end
+
+def to_less(name, color)
+  "@ghc-#{name}: #{color};\n"
+end
+
 # Load YAML file
 yalm_hash = YAML.load_file(open(URL))
 
-# Open CSS file
+# Open files
 css_file = File.open("github-colors.css", "w")
+sass_file = File.open("github-colors.scss", "w")
+less_file = File.open("github-colors.less", "w")
 
 yalm_hash.map do |e, i|
   unless i["color"].nil?
-    # Add comment with language name
-    css_file.write("/* #{e} */\n")
-    # Change programming language name
-    css_name = to_css_name(e);
-    # Adding css color class
-    css_file.write(".ghc-#{css_name} { color: #{i['color']}; }\n")
-    # Adding css background-color class
-    css_file.write(".ghc-#{css_name}-bg { background-color: #{i['color']}; }\n")
+    # Variables
+    language_name = "/* #{e} */\n"
+    language_parsed = to_css_name(e)
+    color = i['color']
+
+    # Adding colors to files
+    css_file.write(to_css(language_parsed, color))
+    sass_file.write(to_sass(language_parsed, color))
+    less_file.write(to_less(language_parsed, color))
   end
 end
 
 # Close file
 css_file.close
+sass_file.close
+less_file.close
