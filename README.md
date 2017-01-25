@@ -1,11 +1,24 @@
-# Github programming languages colors | CSS
-Github colors for all the programming languages in a css file.
+# Github programming language colors
+Github colors for all the programming languages in css, sass and less.
 
-The css file follows this pattern:
+The files follows this pattern:
+
+CSS:
 ```css
 .ghc-shell { color: #89e051; }
 .ghc-shell-bg { background-color: #89e051; }
 ```
+
+Sass:
+```scss
+$ghc-shell: #89e051;
+```
+
+Less:
+```less
+@ghc-shell: #89e051;
+```
+
 The name of the programming languages will be changed like this:
 
 - The language name it's in downcase
