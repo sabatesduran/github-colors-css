@@ -146,8 +146,8 @@
 .ghc-grammatical-framework-bg { background-color: #79aa7a; }
 .ghc-groovy { color: #e69f56; }
 .ghc-groovy-bg { background-color: #e69f56; }
-.ghc-html { color: #e44b23; }
-.ghc-html-bg { background-color: #e44b23; }
+.ghc-html { color: #e34c26; }
+.ghc-html-bg { background-color: #e34c26; }
 .ghc-hack { color: #878787; }
 .ghc-hack-bg { background-color: #878787; }
 .ghc-harbour { color: #0e60e3; }
@@ -216,6 +216,8 @@
 .ghc-max-bg { background-color: #c4a79c; }
 .ghc-mercury { color: #ff2b2b; }
 .ghc-mercury-bg { background-color: #ff2b2b; }
+.ghc-meson { color: #007800; }
+.ghc-meson-bg { background-color: #007800; }
 .ghc-metal { color: #8f14e9; }
 .ghc-metal-bg { background-color: #8f14e9; }
 .ghc-mirah { color: #c7a938; }
@@ -258,6 +260,8 @@
 .ghc-oxygene-bg { background-color: #cdd0e3; }
 .ghc-oz { color: #fab738; }
 .ghc-oz-bg { background-color: #fab738; }
+.ghc-p4 { color: #7055b5; }
+.ghc-p4-bg { background-color: #7055b5; }
 .ghc-pawn { color: #dbb284; }
 .ghc-pawn-bg { background-color: #dbb284; }
 .ghc-php { color: #4F5D95; }
@@ -286,6 +290,8 @@
 .ghc-postscript-bg { background-color: #da291c; }
 .ghc-powerbuilder { color: #8f0f8d; }
 .ghc-powerbuilder-bg { background-color: #8f0f8d; }
+.ghc-powershell { color: #012456; }
+.ghc-powershell-bg { background-color: #012456; }
 .ghc-processing { color: #0096D8; }
 .ghc-processing-bg { background-color: #0096D8; }
 .ghc-prolog { color: #74283c; }
