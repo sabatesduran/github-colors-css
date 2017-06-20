@@ -282,8 +282,8 @@
 .ghc-pep8-bg { background-color: #C76F5B; }
 .ghc-perl { color: #0298c3; }
 .ghc-perl-bg { background-color: #0298c3; }
-.ghc-perl6 { color: #0000fb; }
-.ghc-perl6-bg { background-color: #0000fb; }
+.ghc-perl-6 { color: #0000fb; }
+.ghc-perl-6-bg { background-color: #0000fb; }
 .ghc-piglatin { color: #fcd7de; }
 .ghc-piglatin-bg { background-color: #fcd7de; }
 .ghc-pike { color: #005390; }
@@ -406,6 +406,8 @@
 .ghc-vue-bg { background-color: #2c3e50; }
 .ghc-web-ontology-language { color: #9cc9dd; }
 .ghc-web-ontology-language-bg { background-color: #9cc9dd; }
+.ghc-webassembly { color: #04133b; }
+.ghc-webassembly-bg { background-color: #04133b; }
 .ghc-x10 { color: #4B6BEF; }
 .ghc-x10-bg { background-color: #4B6BEF; }
 .ghc-xc { color: #99DA07; }
