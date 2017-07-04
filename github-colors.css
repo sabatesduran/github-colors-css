@@ -116,8 +116,8 @@
 .ghc-factor-bg { background-color: #636746; }
 .ghc-fancy { color: #7b9db4; }
 .ghc-fancy-bg { background-color: #7b9db4; }
-.ghc-fantom { color: #dbded5; }
-.ghc-fantom-bg { background-color: #dbded5; }
+.ghc-fantom { color: #14253c; }
+.ghc-fantom-bg { background-color: #14253c; }
 .ghc-forth { color: #341708; }
 .ghc-forth-bg { background-color: #341708; }
 .ghc-fortran { color: #4d41b1; }
@@ -332,6 +332,8 @@
 .ghc-red-bg { background-color: #f50000; }
 .ghc-ren-py { color: #ff7f7f; }
 .ghc-ren-py-bg { background-color: #ff7f7f; }
+.ghc-ring { color: #0e60e3; }
+.ghc-ring-bg { background-color: #0e60e3; }
 .ghc-roff { color: #ecdebe; }
 .ghc-roff-bg { background-color: #ecdebe; }
 .ghc-rouge { color: #cc0088; }
