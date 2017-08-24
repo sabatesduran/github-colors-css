@@ -94,8 +94,6 @@
 .ghc-ecl-bg { background-color: #8a1267; }
 .ghc-eq { color: #a78649; }
 .ghc-eq-bg { background-color: #a78649; }
-.ghc-eagle { color: #814C05; }
-.ghc-eagle-bg { background-color: #814C05; }
 .ghc-eiffel { color: #946d57; }
 .ghc-eiffel-bg { background-color: #946d57; }
 .ghc-elixir { color: #6e4a7e; }
@@ -226,6 +224,8 @@
 .ghc-mirah-bg { background-color: #c7a938; }
 .ghc-ncl { color: #28431f; }
 .ghc-ncl-bg { background-color: #28431f; }
+.ghc-nearley { color: #990000; }
+.ghc-nearley-bg { background-color: #990000; }
 .ghc-nemerle { color: #3d3c6e; }
 .ghc-nemerle-bg { background-color: #3d3c6e; }
 .ghc-netlinx { color: #0aa0ff; }
@@ -236,8 +236,6 @@
 .ghc-netlogo-bg { background-color: #ff6375; }
 .ghc-newlisp { color: #87AED7; }
 .ghc-newlisp-bg { background-color: #87AED7; }
-.ghc-nginx { color: #9469E9; }
-.ghc-nginx-bg { background-color: #9469E9; }
 .ghc-nim { color: #37775b; }
 .ghc-nim-bg { background-color: #37775b; }
 .ghc-nit { color: #009917; }
@@ -304,8 +302,6 @@
 .ghc-propeller-spin-bg { background-color: #7fa2a7; }
 .ghc-puppet { color: #302B6D; }
 .ghc-puppet-bg { background-color: #302B6D; }
-.ghc-pure-data { color: #91de79; }
-.ghc-pure-data-bg { background-color: #91de79; }
 .ghc-purebasic { color: #5a6986; }
 .ghc-purebasic-bg { background-color: #5a6986; }
 .ghc-purescript { color: #1D222D; }
@@ -406,8 +402,6 @@
 .ghc-volt-bg { background-color: #1F1F1F; }
 .ghc-vue { color: #2c3e50; }
 .ghc-vue-bg { background-color: #2c3e50; }
-.ghc-web-ontology-language { color: #9cc9dd; }
-.ghc-web-ontology-language-bg { background-color: #9cc9dd; }
 .ghc-webassembly { color: #04133b; }
 .ghc-webassembly-bg { background-color: #04133b; }
 .ghc-x10 { color: #4B6BEF; }
