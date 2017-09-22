@@ -38,6 +38,8 @@
 .ghc-autohotkey-bg { background-color: #6594b9; }
 .ghc-autoit { color: #1C3552; }
 .ghc-autoit-bg { background-color: #1C3552; }
+.ghc-ballerina { color: #FF5000; }
+.ghc-ballerina-bg { background-color: #FF5000; }
 .ghc-batchfile { color: #C1F12E; }
 .ghc-batchfile-bg { background-color: #C1F12E; }
 .ghc-blitzmax { color: #cd6400; }
@@ -54,6 +56,8 @@
 .ghc-cpp-bg { background-color: #f34b7d; }
 .ghc-css { color: #563d7c; }
 .ghc-css-bg { background-color: #563d7c; }
+.ghc-ceylon { color: #dfa535; }
+.ghc-ceylon-bg { background-color: #dfa535; }
 .ghc-chapel { color: #8dc63f; }
 .ghc-chapel-bg { background-color: #8dc63f; }
 .ghc-cirru { color: #ccccff; }
@@ -84,6 +88,8 @@
 .ghc-dm-bg { background-color: #447265; }
 .ghc-dart { color: #00B4AB; }
 .ghc-dart-bg { background-color: #00B4AB; }
+.ghc-dataweave { color: #003a52; }
+.ghc-dataweave-bg { background-color: #003a52; }
 .ghc-dogescript { color: #cca760; }
 .ghc-dogescript-bg { background-color: #cca760; }
 .ghc-dylan { color: #6c616e; }
@@ -210,8 +216,8 @@
 .ghc-makefile-bg { background-color: #427819; }
 .ghc-mask { color: #f97732; }
 .ghc-mask-bg { background-color: #f97732; }
-.ghc-matlab { color: #bb92ac; }
-.ghc-matlab-bg { background-color: #bb92ac; }
+.ghc-matlab { color: #e16737; }
+.ghc-matlab-bg { background-color: #e16737; }
 .ghc-max { color: #c4a79c; }
 .ghc-max-bg { background-color: #c4a79c; }
 .ghc-mercury { color: #ff2b2b; }
