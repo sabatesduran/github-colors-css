@@ -24,6 +24,8 @@
 .ghc-agda-bg { background-color: #315665; }
 .ghc-alloy { color: #64C800; }
 .ghc-alloy-bg { background-color: #64C800; }
+.ghc-angelscript { color: #C7D7DC; }
+.ghc-angelscript-bg { background-color: #C7D7DC; }
 .ghc-applescript { color: #101F1F; }
 .ghc-applescript-bg { background-color: #101F1F; }
 .ghc-arc { color: #aa2afe; }
@@ -394,6 +396,8 @@
 .ghc-typescript-bg { background-color: #2b7489; }
 .ghc-unrealscript { color: #a54c4d; }
 .ghc-unrealscript-bg { background-color: #a54c4d; }
+.ghc-vcl { color: #0298c3; }
+.ghc-vcl-bg { background-color: #0298c3; }
 .ghc-vhdl { color: #adb2cb; }
 .ghc-vhdl-bg { background-color: #adb2cb; }
 .ghc-vala { color: #fbe5cd; }
@@ -428,6 +432,8 @@
 .ghc-nesc-bg { background-color: #94B0C7; }
 .ghc-ooc { color: #b0b77e; }
 .ghc-ooc-bg { background-color: #b0b77e; }
+.ghc-wdl { color: #42f1f4; }
+.ghc-wdl-bg { background-color: #42f1f4; }
 .ghc-wisp { color: #7582D1; }
 .ghc-wisp-bg { background-color: #7582D1; }
 .ghc-xbase { color: #403a40; }
