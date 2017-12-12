@@ -78,6 +78,8 @@
 .ghc-coldfusion-bg { background-color: #ed2cd6; }
 .ghc-common-lisp { color: #3fb68b; }
 .ghc-common-lisp-bg { background-color: #3fb68b; }
+.ghc-common-workflow-language { color: #B5314C; }
+.ghc-common-workflow-language-bg { background-color: #B5314C; }
 .ghc-component-pascal { color: #B0CE4E; }
 .ghc-component-pascal-bg { background-color: #B0CE4E; }
 .ghc-crystal { color: #776791; }
@@ -166,6 +168,8 @@
 .ghc-hy-bg { background-color: #7790B2; }
 .ghc-idl { color: #a3522f; }
 .ghc-idl-bg { background-color: #a3522f; }
+.ghc-idris { color: #b30000; }
+.ghc-idris-bg { background-color: #b30000; }
 .ghc-io { color: #a9188d; }
 .ghc-io-bg { background-color: #a9188d; }
 .ghc-ioke { color: #078193; }
@@ -190,6 +194,8 @@
 .ghc-krl-bg { background-color: #28431f; }
 .ghc-kotlin { color: #F18E33; }
 .ghc-kotlin-bg { background-color: #F18E33; }
+.ghc-lfe { color: #4C3023; }
+.ghc-lfe-bg { background-color: #4C3023; }
 .ghc-llvm { color: #185619; }
 .ghc-llvm-bg { background-color: #185619; }
 .ghc-lolcode { color: #cc9900; }
