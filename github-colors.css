@@ -30,8 +30,6 @@
 .ghc-applescript-bg { background-color: #101F1F; }
 .ghc-arc { color: #aa2afe; }
 .ghc-arc-bg { background-color: #aa2afe; }
-.ghc-arduino { color: #bd79d1; }
-.ghc-arduino-bg { background-color: #bd79d1; }
 .ghc-aspectj { color: #a957b0; }
 .ghc-aspectj-bg { background-color: #a957b0; }
 .ghc-assembly { color: #6E4C13; }
@@ -376,6 +374,8 @@
 .ghc-slash-bg { background-color: #007eff; }
 .ghc-smalltalk { color: #596706; }
 .ghc-smalltalk-bg { background-color: #596706; }
+.ghc-solidity { color: #AA6746; }
+.ghc-solidity-bg { background-color: #AA6746; }
 .ghc-sourcepawn { color: #5c7611; }
 .ghc-sourcepawn-bg { background-color: #5c7611; }
 .ghc-squirrel { color: #800000; }
