@@ -162,6 +162,8 @@
 .ghc-haskell-bg { background-color: #5e5086; }
 .ghc-haxe { color: #df7900; }
 .ghc-haxe-bg { background-color: #df7900; }
+.ghc-hiveql { color: #dce200; }
+.ghc-hiveql-bg { background-color: #dce200; }
 .ghc-hy { color: #7790B2; }
 .ghc-hy-bg { background-color: #7790B2; }
 .ghc-idl { color: #a3522f; }
@@ -440,6 +442,10 @@
 .ghc-nesc-bg { background-color: #94B0C7; }
 .ghc-ooc { color: #b0b77e; }
 .ghc-ooc-bg { background-color: #b0b77e; }
+.ghc-q { color: #0040cd; }
+.ghc-q-bg { background-color: #0040cd; }
+.ghc-sed { color: #64b970; }
+.ghc-sed-bg { background-color: #64b970; }
 .ghc-wdl { color: #42f1f4; }
 .ghc-wdl-bg { background-color: #42f1f4; }
 .ghc-wisp { color: #7582D1; }
