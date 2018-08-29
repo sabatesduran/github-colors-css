@@ -118,6 +118,8 @@
 .ghc-erlang-bg { background-color: #B83998; }
 .ghc-f-sharp { color: #b845fc; }
 .ghc-f-sharp-bg { background-color: #b845fc; }
+.ghc-f* { color: #572e30; }
+.ghc-f*-bg { background-color: #572e30; }
 .ghc-flux { color: #88ccff; }
 .ghc-flux-bg { background-color: #88ccff; }
 .ghc-factor { color: #636746; }
