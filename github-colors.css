@@ -34,6 +34,8 @@
 .ghc-aspectj-bg { background-color: #a957b0; }
 .ghc-assembly { color: #6E4C13; }
 .ghc-assembly-bg { background-color: #6E4C13; }
+.ghc-asymptote { color: #4a0c0c; }
+.ghc-asymptote-bg { background-color: #4a0c0c; }
 .ghc-autohotkey { color: #6594b9; }
 .ghc-autohotkey-bg { background-color: #6594b9; }
 .ghc-autoit { color: #1C3552; }
@@ -80,8 +82,8 @@
 .ghc-common-workflow-language-bg { background-color: #B5314C; }
 .ghc-component-pascal { color: #B0CE4E; }
 .ghc-component-pascal-bg { background-color: #B0CE4E; }
-.ghc-crystal { color: #776791; }
-.ghc-crystal-bg { background-color: #776791; }
+.ghc-crystal { color: #000100; }
+.ghc-crystal-bg { background-color: #000100; }
 .ghc-cuda { color: #3A4E3A; }
 .ghc-cuda-bg { background-color: #3A4E3A; }
 .ghc-d { color: #ba595e; }
@@ -92,8 +94,8 @@
 .ghc-dart-bg { background-color: #00B4AB; }
 .ghc-dataweave { color: #003a52; }
 .ghc-dataweave-bg { background-color: #003a52; }
-.ghc-dockerfile { color: #0db7ed; }
-.ghc-dockerfile-bg { background-color: #0db7ed; }
+.ghc-dockerfile { color: #384d54; }
+.ghc-dockerfile-bg { background-color: #384d54; }
 .ghc-dogescript { color: #cca760; }
 .ghc-dogescript-bg { background-color: #cca760; }
 .ghc-dylan { color: #6c616e; }
@@ -138,8 +140,8 @@
 .ghc-frege-bg { background-color: #00cafe; }
 .ghc-gdscript { color: #355570; }
 .ghc-gdscript-bg { background-color: #355570; }
-.ghc-game-maker-language { color: #8fb200; }
-.ghc-game-maker-language-bg { background-color: #8fb200; }
+.ghc-game-maker-language { color: #71b417; }
+.ghc-game-maker-language-bg { background-color: #71b417; }
 .ghc-genie { color: #fb855d; }
 .ghc-genie-bg { background-color: #fb855d; }
 .ghc-gherkin { color: #5B2063; }
@@ -148,8 +150,8 @@
 .ghc-glyph-bg { background-color: #c1ac7f; }
 .ghc-gnuplot { color: #f0a9f0; }
 .ghc-gnuplot-bg { background-color: #f0a9f0; }
-.ghc-go { color: #375eab; }
-.ghc-go-bg { background-color: #375eab; }
+.ghc-go { color: #00ADD8; }
+.ghc-go-bg { background-color: #00ADD8; }
 .ghc-golo { color: #88562A; }
 .ghc-golo-bg { background-color: #88562A; }
 .ghc-gosu { color: #82937f; }
@@ -218,6 +220,8 @@
 .ghc-lookml-bg { background-color: #652B81; }
 .ghc-lua { color: #000080; }
 .ghc-lua-bg { background-color: #000080; }
+.ghc-matlab { color: #e16737; }
+.ghc-matlab-bg { background-color: #e16737; }
 .ghc-maxscript { color: #00a6a6; }
 .ghc-maxscript-bg { background-color: #00a6a6; }
 .ghc-mql4 { color: #62A8D6; }
@@ -230,8 +234,6 @@
 .ghc-makefile-bg { background-color: #427819; }
 .ghc-mask { color: #f97732; }
 .ghc-mask-bg { background-color: #f97732; }
-.ghc-matlab { color: #e16737; }
-.ghc-matlab-bg { background-color: #e16737; }
 .ghc-max { color: #c4a79c; }
 .ghc-max-bg { background-color: #c4a79c; }
 .ghc-mercury { color: #ff2b2b; }
@@ -286,8 +288,6 @@
 .ghc-oz-bg { background-color: #fab738; }
 .ghc-p4 { color: #7055b5; }
 .ghc-p4-bg { background-color: #7055b5; }
-.ghc-pawn { color: #dbb284; }
-.ghc-pawn-bg { background-color: #dbb284; }
 .ghc-php { color: #4F5D95; }
 .ghc-php-bg { background-color: #4F5D95; }
 .ghc-plsql { color: #dad8d8; }
@@ -300,6 +300,8 @@
 .ghc-parrot-bg { background-color: #f3ca0a; }
 .ghc-pascal { color: #E3F171; }
 .ghc-pascal-bg { background-color: #E3F171; }
+.ghc-pawn { color: #dbb284; }
+.ghc-pawn-bg { background-color: #dbb284; }
 .ghc-pep8 { color: #C76F5B; }
 .ghc-pep8-bg { background-color: #C76F5B; }
 .ghc-perl { color: #0298c3; }
@@ -384,6 +386,8 @@
 .ghc-shen-bg { background-color: #120F14; }
 .ghc-slash { color: #007eff; }
 .ghc-slash-bg { background-color: #007eff; }
+.ghc-slice { color: #003fa2; }
+.ghc-slice-bg { background-color: #003fa2; }
 .ghc-smalltalk { color: #596706; }
 .ghc-smalltalk-bg { background-color: #596706; }
 .ghc-solidity { color: #AA6746; }
@@ -442,10 +446,16 @@
 .ghc-xquery-bg { background-color: #5232e7; }
 .ghc-xslt { color: #EB8CEB; }
 .ghc-xslt-bg { background-color: #EB8CEB; }
+.ghc-yara { color: #220000; }
+.ghc-yara-bg { background-color: #220000; }
+.ghc-yasnippet { color: #32AB90; }
+.ghc-yasnippet-bg { background-color: #32AB90; }
 .ghc-yacc { color: #4B6C4B; }
 .ghc-yacc-bg { background-color: #4B6C4B; }
 .ghc-zephir { color: #118f9e; }
 .ghc-zephir-bg { background-color: #118f9e; }
+.ghc-zig { color: #ec915c; }
+.ghc-zig-bg { background-color: #ec915c; }
 .ghc-ec { color: #913960; }
 .ghc-ec-bg { background-color: #913960; }
 .ghc-nesc { color: #94B0C7; }
